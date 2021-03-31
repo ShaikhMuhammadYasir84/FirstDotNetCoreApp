@@ -18,6 +18,7 @@ namespace SecondRepoForDotnetCore
         public Startup(IConfiguration configuration)
         {
             // GitHub Changes
+            // git changes from DEV
             Configuration = configuration;
         }
 
